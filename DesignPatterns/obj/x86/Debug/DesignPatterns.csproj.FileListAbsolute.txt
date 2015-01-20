@@ -1,0 +1,8 @@
+C:\Users\spco0d6\AppData\Local\Temporary Projects\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\spco0d6\AppData\Local\Temporary Projects\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\spco0d6\AppData\Local\Temporary Projects\DesignPatterns\obj\x86\Debug\DesignPatterns.exe
+C:\Users\spco0d6\AppData\Local\Temporary Projects\DesignPatterns\obj\x86\Debug\DesignPatterns.pdb
+C:\Users\spco0d6\Dropbox\PROGETTI\3INNOVA\MAGE_OFF_LINE\DesignPatterns\DesignPatterns\obj\x86\Debug\DesignPatterns.exe
+C:\Users\spco0d6\Dropbox\PROGETTI\3INNOVA\MAGE_OFF_LINE\DesignPatterns\DesignPatterns\obj\x86\Debug\DesignPatterns.pdb
+C:\Users\spco0d6\Dropbox\PROGETTI\3INNOVA\MAGE_OFF_LINE\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\spco0d6\Dropbox\PROGETTI\3INNOVA\MAGE_OFF_LINE\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
